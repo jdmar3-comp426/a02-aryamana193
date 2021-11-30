@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://aryamana193: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@github.com/jdmar3-comp426/a02-aryamana193.git"
   },
-  "author": "",
+  "author": "Aryaman Agrawal",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-aryamana193/issues"
@@ -19,5 +19,6 @@
   "dependencies": {
     "browser-sync": "^2.27.7",
     "bulma": "^0.9.3"
-  }
+  },
+  "devDependencies": {}
 }
